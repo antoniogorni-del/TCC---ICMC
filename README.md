@@ -1,5 +1,5 @@
 # TCC---ICMC
-Complementary files of the TCC
+Complementary files of the Final Course Project
 
 These texts are part of the development of the Final Course Project “Evaluation of the Knowledge of Public LLMs on the Controlled Rolling of Microalloyed Steels”, authored by Antonio Augusto Gorni (www.gorni.eng.br), in the MBA course in Artificial Intelligence and Big Data at the Instituto de Ciências Matemáticas e de Computação da Universidade de São Paulo, em São Carlos SP, Brazil.
 
